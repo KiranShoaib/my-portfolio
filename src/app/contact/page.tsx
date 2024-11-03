@@ -6,7 +6,7 @@ import { TiMail } from "react-icons/ti";
 
 function Contact(){
     return (
-        <section className="lg:px-32 md:px-4 h-screen bg-white flex flex-col md:flex-row ">
+        <section className="lg:px-32 md:px-4 h-screen bg-[#3b2930] flex flex-col md:flex-row ">
             <div>
                 <h1 className="pt-20 md:pt-32 text-[#d58952] text-3xl md:text-4xl font-semibold text-center md:text-start">Get in Touch</h1>
                 <p className="text-white pt-2 text-center md:pr-32">Have questions or need assistance? Reach out to us, and we&#39;ll be happy to help make your experience seamless</p>
@@ -72,7 +72,7 @@ function Contact(){
                         ></textarea>
                     <span className="text-[#d58952] absolute left-0 top-1/2 transform -translate-y-1/2 text-base pointer-events-none transition-all duration-500 peer-focus:text-[#3b2930] peer-focus:text-sm peer-focus:-translate-y-10 peer-valid:text-[#3b2930] peer-valid:text-sm peer-valid:-translate-y-10" >Your Message</span>
                     </div>
-                    <div className="-translate-y-8 -translate-x-5 md:-translate-x-0">
+                    <div className="-translate-y-3 md:-translate-y-5 -translate-x-5 md:-translate-x-7 ">
                         <Button text="Send"/>
                     </div>
                 </form>
