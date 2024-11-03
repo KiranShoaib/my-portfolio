@@ -72,7 +72,7 @@ function Contact(){
                         ></textarea>
                     <span className="text-[#d58952] absolute left-0 top-1/2 transform -translate-y-1/2 text-base pointer-events-none transition-all duration-500 peer-focus:text-[#3b2930] peer-focus:text-sm peer-focus:-translate-y-10 peer-valid:text-[#3b2930] peer-valid:text-sm peer-valid:-translate-y-10" >Your Message</span>
                     </div>
-                    <div className="-translate-y-4 md:-translate-y-5 -translate-x-5 md:-translate-x-7 ">
+                    <div className="-translate-y-5 -translate-x-5 md:-translate-x-7 ">
                         <Button text="Send"/>
                     </div>
                 </form>
