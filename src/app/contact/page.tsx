@@ -28,7 +28,7 @@ function Contact(){
                 </div>
                 </div>
             </div>
-            <div className="contactForm mt-8 md:mt-60 mx-auto p-5 md:p-7 w-[90%] h-[35%] sm:w-[60%] md:w-[70%] lg:h-[300px] bg-white md:mr-24">
+            <div className="contactForm sticky mt-8 md:mt-60 mx-auto p-5 md:p-7 w-[90%] h-[300px] sm:w-[60%] md:w-[70%] bg-white md:mr-24">
                 <form>
                     <h2 className="text-[#d58952] text-lg font-semibold">Send Message</h2>
                     <div className="inputBox relative mt-3 ">
