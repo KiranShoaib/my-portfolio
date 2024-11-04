@@ -7,7 +7,7 @@ import { FaFacebookSquare } from "react-icons/fa";
 
 function Footer(){
     return(
-        <footer className=" md:pt-16" style={{backgroundImage: "url('bg.png')"}} >
+        <footer className="sticky md:pt-16" style={{backgroundImage: "url('bg.png')"}} >
             <div>
                 <h1 className=" px-2 md:px-4 pt-4  lg:px-32 text-xl md:text-5xl text-white">Do you have any Project? <span className=" text-xl md:text-5xl text-[#d58952]">Let&#39;s Talk</span></h1>
                 <p className="px-2 md:px-4 lg:px-32 pt-6 text-center md:text-start max-w-xl md:max-w-4xl text-white">
