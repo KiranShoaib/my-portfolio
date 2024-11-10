@@ -26,7 +26,7 @@ function Footer(){
                 </ul>
             </div>
             <div className="pt-5 md:pt-10">
-                <p className="text-center text-white">Copyright <span className="text-[#d58952]">&copy;</span> 2024 All Rights Reserved.</p>
+                <p className="text-center text-white">Copyright <span className="text-[#d58952]"> &copy;</span> 2024 All Rights Reserved.</p>
             </div>
             
         </footer>
