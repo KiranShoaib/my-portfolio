@@ -6,7 +6,7 @@ import { TiMail } from "react-icons/ti";
 
 function Contact(){
     return (
-        <section className="lg:px-32 md:px-4 h-screen bg-[#3b2930] flex flex-col md:flex-row ">
+        <section className="lg:px-32 md:px-4 h-screen bg-[#3b2930] flex flex-col md:flex-row">
             <div>
                 <h1 className="pt-16 md:pt-32 text-[#d58952] text-3xl md:text-4xl font-semibold text-center md:text-start">Get in Touch</h1>
                 <p className="text-white pt-2 text-center md:pr-32">Have questions or need assistance? Reach out to us, and we&#39;ll be happy to help make your experience seamless</p>
